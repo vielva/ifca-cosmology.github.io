@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# TEST
+# Observational Cosmology and Instrumentation
 
 
 THIS IS A TEST
