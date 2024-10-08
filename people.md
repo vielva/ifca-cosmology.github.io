@@ -39,9 +39,9 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
 
 <p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/acebrona.jpg" style="width:200px;height:215px;"><a href="{{site.url}}/acebrona"><b>Ana Acebrón</b></a></p>
 
-<p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/bernaljl.jpg" style="width:200px;height:215px;"><a href="{{site.url}}/bernaljl"><b>José Luis Bernal</b></a></p>
+<p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/bernaljl.jpg" style="width:160px;height:215px;"><br>  <a href="{{site.url}}/bernaljl"><b>José Luis Bernal</b></a></p>
 
-<p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/bernaljl.jpg" style="width:200px;height:215px;"><a href="{{site.url}}/bernaljl"><b>Nicholas </b></a></p>
+<p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/nicholas.jpg" style="width:200px;height:215px;"><a href="{{site.url}}/nicholas"><b>Nicholas </b></a></p>
 
 <br>
 <br>
