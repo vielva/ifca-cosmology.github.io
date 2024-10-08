@@ -8,7 +8,7 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
 
 ### Faculty
 
-- [Diego Herranz]({{site.url}}/main_pages/people/herranzd.html)
+- [Diego Herranz]({{site.url}}/herranzd.html)
 - is
 
 ### Postdocs
