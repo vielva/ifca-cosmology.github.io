@@ -28,3 +28,10 @@ I actively participate in several [international collaborations]({{site.url}}/co
 - [J-PAS](https://www.j-pas.org/)
 - [Planck collaboration](https://www.cosmos.esa.int/web/planck)
 - [Herschel](https://sci.esa.int/web/herschel)
+
+<br>
+<br>
+<br>
+<br>
+
+Back to [people]({{site.url}}/people).
