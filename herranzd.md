@@ -6,7 +6,7 @@ layout: default
 
 <p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/herranzd.jpg" style="width:250px;height:270px;"> Outreach information: <a href="https://x.com/dgherranz)">@dgherranz</a></p>
 
-## Diego Herranz
+# Diego Herranz
 
 I am currently a Full Professor at the [University of Cantabria](https://web.unican.es/), where I conduct research at the [Instituto de Física de Cantabria (IFCA)](https://ifca.unican.es/en-us) and collaborate with the Observational Cosmology and Instrumentation group. My primary research interests lie in cosmology and the statistical analysis of signals and images, particularly focusing on the Cosmic Microwave Background (CMB) and extragalactic compact sources (galaxies and galaxy clusters). A major part of my work involves the detection and detailed study of astrophysical components, especially the identification and analysis of compact polarized point sources, both to reduce their impact on cosmological signals as contaminants and to study them as probes of galactic formation and evolution.
 
