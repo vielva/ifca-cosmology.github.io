@@ -41,7 +41,13 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
 
 <p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/bernaljl.jpg" style="width:170px;height:215px;"><br>  <a href="{{site.url}}/bernaljl"><b>José Luis Bernal</b></a></p>
 
-<p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/nicholas.jpg" style="width:200px;height:215px;"><a href="{{site.url}}/nicholas"><b>Nicholas </b></a></p>
+<p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/dominguezh.jpg" style="width:200px;height:215px;"><a href="{{site.url}}/dominguezh"><b>Helena Domínguez Sánchez </b></a></p>
+
+<p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/longeardn.jpg" style="width:200px;height:215px;"><a href="{{site.url}}/longeardn"><b>Nicolas Longeard </b></a></p>
+
+<p style="float: left; width: 28%; height: 280px; margin:20px; text-align: center;"></p>
+
+<p style="float: left; width: 28%; height: 280px; margin:20px; text-align: center;"></p>
 
 <br>
 <br>
@@ -66,5 +72,12 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
 
 <p style="float: left; width: 28%; height: 280px; margin:20px; text-align: center;"></p>
 
-##
+## Technical Staff
 
+<p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/carcedos.jpg" style="width:200px;height:215px;"><a href="{{site.url}}/carcedos"><b>Sandra Carcedo </b></a></p>
+
+<p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/casaponsab.jpg" style="width:200px;height:215px;"><a href="{{site.url}}/casaponsab"><b>Biuse Casaponsa </b></a></p>
+
+<p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/castellol.jpg" style="width:200px;height:215px;"><a href="{{site.url}}/castellol"><b> Laura Castelló </b></a></p>
+
+<p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/villafanej.jpg" style="width:200px;height:215px;"><a href="{{site.url}}/villafanej"><b>Juan Villafañe </b></a></p>
