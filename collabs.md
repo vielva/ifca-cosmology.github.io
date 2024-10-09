@@ -105,6 +105,8 @@ As the successor to HST, JWST marks the next chapter in space-based astronomy, s
 
 ### EUCLID 
 
+<p style="float: left; width: 40%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/euclid.png" style="width:310px;height:310px;"></p>
+
 The Euclid mission, led by the European Space Agency (ESA), is designed to address some of the most profound questions in modern cosmology, particularly concerning the nature of dark matter and dark energy. Launched in 2023, Euclid aims to map the geometry of the universe by observing billions of galaxies across more than a third of the sky, spanning distances of up to 10 billion light-years. This ambitious survey will provide unprecedented data on the large-scale structure of the universe, offering key insights into the distribution of dark matter and the accelerated expansion driven by dark energy.
 
 Euclid’s powerful instruments operate in the visible (VIS) and near-infrared (NIR) wavelengths, allowing it to detect faint galaxies and cosmic structures with extraordinary precision. Through its wide-field imaging and spectroscopic capabilities, the mission will measure the shapes, positions, and redshifts of galaxies, enabling scientists to trace the evolution of cosmic structures over time. By studying gravitational lensing and galaxy clustering, Euclid will map the distribution of dark matter and test different models of dark energy, shedding light on the mysterious forces shaping the cosmos.
