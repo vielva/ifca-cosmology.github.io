@@ -90,7 +90,7 @@ Euclid complements other major observatories like the James Webb Space Telescope
 
 ### JWST & HST 
 
-<p style="float: left; width: 60%; margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/jwst-hst.png" style="width:410px;height:250px;"></p>
+<p style="float: left; width: 60%; margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/jwst.png" style="width:410px;height:250px;"></p>
 
 The Hubble Space Telescope (HST), launched in 1990 by NASA in collaboration with ESA, is one of the most significant astronomical observatories in history. Operating in low Earth orbit, HST has revolutionised our understanding of the universe by providing incredibly detailed images across ultraviolet, visible, and near-infrared wavelengths. Its observations have transformed numerous fields in astronomy, from studying distant galaxies and dark matter to uncovering the mysteries of exoplanets and black holes.
 
