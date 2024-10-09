@@ -75,7 +75,23 @@ The Canfranc Axion Detection Experiment (CADEx) is a planned search for the Dark
 
 ### JWST & HST 
 
+The Hubble Space Telescope (HST), launched in 1990 by NASA in collaboration with ESA, is one of the most significant astronomical observatories in history. Operating in low Earth orbit, HST has revolutionised our understanding of the universe by providing incredibly detailed images across ultraviolet, visible, and near-infrared wavelengths. Its observations have transformed numerous fields in astronomy, from studying distant galaxies and dark matter to uncovering the mysteries of exoplanets and black holes.
+
+With its unparalleled clarity and resolution, HST has made groundbreaking discoveries, such as confirming the accelerating expansion of the universe—leading to the discovery of dark energy—, providing direct evidence of the existence of supermassive black holes, and capturing the most distant galaxies ever observed. HST's ability to peer deep into the cosmos has enabled scientists to explore galaxy formation and evolution, the life cycles of stars, and the structure of the early universe.
+
+For over 30 years, HST has remained a cornerstone of modern astrophysics, serving as a critical tool for understanding our cosmic origins. It complements missions like JWST and Euclid, providing valuable data on both the local and distant universe.
+
+The James Webb Space Telescope (JWST), launched in 2021 by NASA in partnership with ESA and CSA, is the most advanced space observatory ever built. Designed to study the universe in the infrared spectrum, JWST's cutting-edge technology allows it to see through cosmic dust and capture faint light from the earliest galaxies formed after the Big Bang. This mission is set to uncover answers to some of the most profound questions in cosmology, including the formation of the first stars and galaxies, the evolution of planetary systems, and the search for life on exoplanets.
+
+JWST's powerful capabilities include a 6.5-metre primary mirror and a suite of sophisticated instruments that provide unprecedented sensitivity and resolution. Its ability to observe in the infrared spectrum makes it ideal for studying the formation of stars and planets within dense clouds of gas and dust, probing the atmospheres of exoplanets for signs of habitability, and investigating the distant universe's evolution. By pushing the limits of observational astronomy, JWST is expected to offer new insights into the nature of dark matter and dark energy, providing critical data to complement other observatories like HST and Euclid.
+
+As the successor to HST, JWST marks the next chapter in space-based astronomy, significantly extending our ability to study both the early universe and the local cosmic neighbourhood, from faint galaxies to nearby star-forming regions.
+
 <h4>Researchers involved</h4>
+
+- [José María Diego]({site.url}}/diegojm)
+- [Ana Acebrón]({{site.url}}/acebrona)
+- [José María Palencia]({{site.url}}/palenciajm)
 
 ### LiteBIRD 
 
