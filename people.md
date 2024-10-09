@@ -16,7 +16,7 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
 
 <p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/cruzm.jpg" style="width:200px;height:215px;"><a href="{{site.url}}/cruzm"><b>Marcos Cruz</b></a><br><br></p>
 
-<p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/diegojm.jpg" style="width:200px;height:215px;"><a href="{{site.url}}/diegojm"><b>Jose María Diego</b></a><br><br></p>
+<p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/diegojm.jpg" style="width:200px;height:215px;"><a href="{{site.url}}/diegojm"><b>José María Diego</b></a><br><br></p>
 
 <p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/guzmanr.jpg" style="width:200px;height:215px;"><a href="{{site.url}}/guzmanr"><b>Rafael Guzmán</b></a><br><br></p>
 
@@ -62,7 +62,7 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
 
 <p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/martinezg.jpg" style="width:200px;height:215px;"><a href="{{site.url}}/martinezg"><b>Guillermo Martínez-Somonte </b></a></p>
 
-<p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/palenciajm.jpg" style="width:200px;height:215px;"><a href="{{site.url}}/palenciajm"><b>Jose María Palencia </b></a><br><br></p>
+<p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/palenciajm.jpg" style="width:200px;height:215px;"><a href="{{site.url}}/palenciajm"><b> José María Palencia </b></a><br><br></p>
 
 <p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/pamuks.jpg" style="width:200px;height:215px;"><a href="{{site.url}}/pamuks"><b>Sefa Pamuk </b></a><br><br></p>
 
