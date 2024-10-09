@@ -4,7 +4,7 @@ layout: default
 
 
 
-<p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/palencia.jpg" style="width:224px;height:300px;"> </p>
+<p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/palenciajm.jpg" style="width:224px;height:300px;"> </p>
 
 # José María Palencia (Chema)
 
