@@ -9,13 +9,13 @@ The [research lines]({{site.url}}/lines) explored by the members of the Cosmolog
 - [ARRAKIHS]({{site.url}}/collabs#arrakihs)
 - [CADEx]({{site.url}}/collabs#CADEx)
 - [DAMIC-M]({{site.url}}/collabs#damic-m)
+- [EUCLID]({{site.url}}/collabs#euclid)
 - [HETDEX]({{site.url}}/collabs#hetdex)
 - [JWST & HST]({{site.url}}/collabs#jwst-&-hst)
 - [LiteBIRD]({{site.url}}/collabs#litebird)
 - [MeerKLASS]({{site.url}}/collabs#meerklass)
-- [SKA]({{site.url}}/collabs#ska)
 - [QUIJOTE]({{site.url}}/collabs#quijote)
-- [EUCLID]({{site.url}}/collabs#euclid)
+- [SKA]({{site.url}}/collabs#ska)
 
 
 <p style="float: left; width: 40%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/ARRAKIHS.png" style="width:310px;height:310px;"></p>
@@ -61,27 +61,36 @@ CADEx is a collaboration formed by several research institutions in Spain. At IF
 - [Patricio Vielva]({{site.url}}/vielvap)
 
 
-### MeerKLASS
+### DAMIC-M 
 
 <h4>Researchers involved</h4>
+
+### EUCLID 
+
+<p style="float: left; width: 70%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/euclid.jpg" style="width:500px;height:250px;"></p>
+
+The Euclid mission, led by the European Space Agency (ESA), is designed to address some of the most profound questions in modern cosmology, particularly concerning the nature of dark matter and dark energy. Launched in 2023, Euclid aims to map the geometry of the universe by observing billions of galaxies across more than a third of the sky, spanning distances of up to 10 billion light-years. This ambitious survey will provide unprecedented data on the large-scale structure of the universe, offering key insights into the distribution of dark matter and the accelerated expansion driven by dark energy.
+
+Euclid’s powerful instruments operate in the visible (VIS) and near-infrared (NIR) wavelengths, allowing it to detect faint galaxies and cosmic structures with extraordinary precision. Through its wide-field imaging and spectroscopic capabilities, the mission will measure the shapes, positions, and redshifts of galaxies, enabling scientists to trace the evolution of cosmic structures over time. By studying gravitational lensing and galaxy clustering, Euclid will map the distribution of dark matter and test different models of dark energy, shedding light on the mysterious forces shaping the cosmos.
+
+Euclid complements other major observatories like the James Webb Space Telescope (JWST) and the Hubble Space Telescope (HST), but with a unique focus on the large-scale structure of the universe rather than individual galaxies or distant stars. As a cornerstone of ESA’s Cosmic Vision program, Euclid will provide crucial data that could lead to paradigm-shifting discoveries in cosmology, helping to refine or challenge the current standard model of cosmology, the Lambda Cold Dark Matter (ΛCDM) model.
+
+<h4>Researchers involved</h4>
+
+- [Ana Acebrón]({{site.url}}/acebrona)
+- [José María Diego]({site.url}}/diegojm)
+- [Enrique Martínez-Fernandez]({{site.url}}/martineze)
+- [Guillermo Martínez-Somonte]({{site.url}}/martinezg)
+- [José María Palencia]({{site.url}}/palenciajm)
+- [Sefa Pamuk]({{site.url}}/pamuks)
 
 ### HETDEX
 
 <h4>Researchers involved</h4>
 
-### SKA
-
-<h4>Researchers involved</h4>
-
-
-
-### DAMIC-M 
-
-<h4>Researchers involved</h4>
-
 ### JWST & HST 
 
-<p style="float: left; width: 40%; margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/jwst-hst.png" style="width:410px;height:310px;"></p>
+<p style="float: left; width: 60%; margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/jwst-hst.png" style="width:410px;height:250px;"></p>
 
 The Hubble Space Telescope (HST), launched in 1990 by NASA in collaboration with ESA, is one of the most significant astronomical observatories in history. Operating in low Earth orbit, HST has revolutionised our understanding of the universe by providing incredibly detailed images across ultraviolet, visible, and near-infrared wavelengths. Its observations have transformed numerous fields in astronomy, from studying distant galaxies and dark matter to uncovering the mysteries of exoplanets and black holes.
 
@@ -101,25 +110,9 @@ As the successor to HST, JWST marks the next chapter in space-based astronomy, s
 - [José María Diego]({site.url}}/diegojm)
 - [José María Palencia]({{site.url}}/palenciajm)
 
-
-### EUCLID 
-
-<p style="float: left; width: 40%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/euclid.jpg" style="width:310px;height:310px;"></p>
-
-The Euclid mission, led by the European Space Agency (ESA), is designed to address some of the most profound questions in modern cosmology, particularly concerning the nature of dark matter and dark energy. Launched in 2023, Euclid aims to map the geometry of the universe by observing billions of galaxies across more than a third of the sky, spanning distances of up to 10 billion light-years. This ambitious survey will provide unprecedented data on the large-scale structure of the universe, offering key insights into the distribution of dark matter and the accelerated expansion driven by dark energy.
-
-Euclid’s powerful instruments operate in the visible (VIS) and near-infrared (NIR) wavelengths, allowing it to detect faint galaxies and cosmic structures with extraordinary precision. Through its wide-field imaging and spectroscopic capabilities, the mission will measure the shapes, positions, and redshifts of galaxies, enabling scientists to trace the evolution of cosmic structures over time. By studying gravitational lensing and galaxy clustering, Euclid will map the distribution of dark matter and test different models of dark energy, shedding light on the mysterious forces shaping the cosmos.
-
-Euclid complements other major observatories like the James Webb Space Telescope (JWST) and the Hubble Space Telescope (HST), but with a unique focus on the large-scale structure of the universe rather than individual galaxies or distant stars. As a cornerstone of ESA’s Cosmic Vision program, Euclid will provide crucial data that could lead to paradigm-shifting discoveries in cosmology, helping to refine or challenge the current standard model of cosmology, the Lambda Cold Dark Matter (ΛCDM) model.
+### MeerKLASS
 
 <h4>Researchers involved</h4>
-
-- [Ana Acebrón]({{site.url}}/acebrona)
-- [José María Diego]({site.url}}/diegojm)
-- [Enrique Martínez-Fernandez]({{site.url}}/martineze)
-- [Guillermo Martínez-Somonte]({{site.url}}/martinezg)
-- [José María Palencia]({{site.url}}/palenciajm)
-- [Sefa Pamuk]({{site.url}}/pamuks)
 
 
 ### LiteBIRD 
@@ -130,4 +123,6 @@ Euclid complements other major observatories like the James Webb Space Telescope
 
 <h4>Researchers involved</h4>
 
+### SKA
 
+<h4>Researchers involved</h4>
