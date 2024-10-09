@@ -47,12 +47,18 @@ The mission is the second F-class mission selected by ESA and the first ESA miss
 
 The Canfranc Axion Detection Experiment (CADEx) is a planned search for the Dark Matter axion in the mass range (330–460 μeV) within the W-band (80–110 GHz). CADEx combines a microwave resonant cavity haloscope with a broadband incoherent detector system to be installed in the dilution refrigerator in the Canfranc Underground Lab (LSC). CADEx is currently in the design and development phase.
 
+CADEx is a collaboration formed by several research institutions in Spain. At IFCA, members from both the Cosmology and the Particle Physics group contribute to the collaboration.
+
 <br>
 <br>
 
 <h4>Researchers involved</h4>
 
-- [Bradley J. Kavanagh](kavanaghbj)
+- [Rita Belén Barreiro]({{site.url}}/barreirorb)
+- [Francisco Javier Casas]({{site.url}}/casasfj)
+- [Bradley J. Kavanagh]({{site.url}}/kavanaghbj)
+- [Enrique Martínez-Fernández]({{site.url}}/martineze)
+- [Patricio Vielva]({{site.url}}/vielvap)
 
 
 ### MeerKLASS
@@ -91,17 +97,10 @@ As the successor to HST, JWST marks the next chapter in space-based astronomy, s
 
 <h4>Researchers involved</h4>
 
-- [José María Diego]({site.url}}/diegojm)
 - [Ana Acebrón]({{site.url}}/acebrona)
+- [José María Diego]({site.url}}/diegojm)
 - [José María Palencia]({{site.url}}/palenciajm)
 
-### LiteBIRD 
-
-<h4>Researchers involved</h4>
-
-### QUIJOTE 
-
-<h4>Researchers involved</h4>
 
 ### EUCLID 
 
@@ -115,9 +114,20 @@ Euclid complements other major observatories like the James Webb Space Telescope
 
 <h4>Researchers involved</h4>
 
-- [Enrique Martínez]({{site.url}}/martineze)
-- [José María Diego]({site.url}}/diegojm)
 - [Ana Acebrón]({{site.url}}/acebrona)
+- [José María Diego]({site.url}}/diegojm)
+- [Enrique Martínez-Fernandez]({{site.url}}/martineze)
+- [Guillermo Martínez-Somonte]({{site.url}}/martinezg)
 - [José María Palencia]({{site.url}}/palenciajm)
 - [Sefa Pamuk]({{site.url}}/pamuks)
-- [Guillermo Martínez]({{site.url}}/martinezg)
+
+
+### LiteBIRD 
+
+<h4>Researchers involved</h4>
+
+### QUIJOTE 
+
+<h4>Researchers involved</h4>
+
+
