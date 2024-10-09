@@ -17,7 +17,7 @@ The [research lines]({{site.url}}/lines) explored by the members of the Cosmolog
 - [QUIJOTE]({{site.url}}/collabs#quijote)
 
 
-<p style="float: left; width: 40%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/ARRAKIHS.png" style="width:300px;height:300px;"></p>
+<p style="float: left; width: 40%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/ARRAKIHS.png" style="width:310px;height:310px;"></p>
 
 ### ARRAKIHS
 The ARRAKIHS mission (Analysis of Resolved Remnants of Accreted galaxies as a Key Instrument for Halo Surveys) is a cutting-edge European Space Agency (ESA) project designed to explore the ultra-low surface brightness universe. ARRAKIHS aims to tackle one of the most profound questions in modern cosmology: the nature of dark matter. This mission will provide unprecedented data by systematically observing about one hundred nearby galaxy halos, probing the faint remnants of galaxy interactions and dark matter distribution that are invisible to ground-based telescopes.
