@@ -41,7 +41,7 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
 
 <p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/bernaljl.jpg" style="width:170px;height:215px;"><br>  <a href="{{site.url}}/bernaljl"><b>José Luis Bernal</b></a></p>
 
-<p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/dominguezh2.jpg" style="width:287px;height:215px;"><a href="{{site.url}}/dominguezh"><b>Helena Domínguez Sánchez </b></a></p>
+<p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/dominguezh2.jpg" style="width:200px;height:215px;"><a href="{{site.url}}/dominguezh"><b>Helena Domínguez Sánchez </b></a></p>
 
 <p style="float: left; width: 28%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/People/longeardn.jpg" style="width:200px;height:215px;"><a href="{{site.url}}/longeardn"><b>Nicolas Longeard </b></a></p>
 
