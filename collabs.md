@@ -15,6 +15,7 @@ The [research lines]({{site.url}}/lines) explored by the members of the Cosmolog
 - [MeerKLASS]({{site.url}}/collabs#meerklass)
 - [SKA]({{site.url}}/collabs#ska)
 - [QUIJOTE]({{site.url}}/collabs#quijote)
+- [EUCLID]({{site.url}}/collabs#euclid)
 
 
 <p style="float: left; width: 40%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/ARRAKIHS.png" style="width:310px;height:310px;"></p>
@@ -81,5 +82,9 @@ The Canfranc Axion Detection Experiment (CADEx) is a planned search for the Dark
 <h4>Researchers involved</h4>
 
 ### QUIJOTE 
+
+<h4>Researchers involved</h4>
+
+### EUCLID 
 
 <h4>Researchers involved</h4>
