@@ -28,7 +28,7 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
 
 <p style="float: left; width: 28%; margin:20px; text-align: center;"><a href="{{site.url}}/remazeillesm"><img src="{{site.url}}/assets/imgs/People/remazeillesm.jpg" style="width:200px;height:215px;"></a><a href="{{site.url}}/remazeillesm"><b>Mathieu Remazeilles</b></a><br><br></p>
 
-<p style="float: left; width: 28%; margin:20px; text-align: center;"><a href="{{site.url}}/vielvap"><img src="{{site.url}}/assets/imgs/People/vielvap.jpg" style="width:200px;height:215px;"><a><a href="{{site.url}}/vielvap"><b>Patricio Vielva</b><br><br></a></p>
+<p style="float: left; width: 28%; margin:20px; text-align: center;"><a href="{{site.url}}/vielvap"><img src="{{site.url}}/assets/imgs/People/vielvap.jpg" style="width:200px;height:215px;"></a><a href="{{site.url}}/vielvap"><b>Patricio Vielva</b><br><br></a></p>
 
 <p style="float: left; width: 28%; height: 280px; margin:20px; text-align: center;"></p>
 
