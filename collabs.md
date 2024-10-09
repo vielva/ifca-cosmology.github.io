@@ -42,8 +42,12 @@ The mission is the second F-class mission selected by ESA and the first ESA miss
 
 ### CADEx 
 
+<p style="float: left; width: 40%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/cadex.png" style="width:310px;height:236px;"></p>
+
 The Canfranc Axion Detection Experiment (CADEx) is a planned search for the Dark Matter axion in the mass range (330–460 μeV) within the W-band (80–110 GHz). CADEx combines a microwave resonant cavity haloscope with a broadband incoherent detector system to be installed in the dilution refrigerator in the Canfranc Underground Lab (LSC). CADEx is currently in the design and development phase.
 
+<br>
+<br>
 
 <h4>Researchers involved</h4>
 
