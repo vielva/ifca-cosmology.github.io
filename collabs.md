@@ -75,6 +75,8 @@ The Canfranc Axion Detection Experiment (CADEx) is a planned search for the Dark
 
 ### JWST & HST 
 
+<p style="float: left; width: 40%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/jwst-hst.png" style="width:310px;height:310px;"></p>
+
 The Hubble Space Telescope (HST), launched in 1990 by NASA in collaboration with ESA, is one of the most significant astronomical observatories in history. Operating in low Earth orbit, HST has revolutionised our understanding of the universe by providing incredibly detailed images across ultraviolet, visible, and near-infrared wavelengths. Its observations have transformed numerous fields in astronomy, from studying distant galaxies and dark matter to uncovering the mysteries of exoplanets and black holes.
 
 With its unparalleled clarity and resolution, HST has made groundbreaking discoveries, such as confirming the accelerating expansion of the universe—leading to the discovery of dark energy—, providing direct evidence of the existence of supermassive black holes, and capturing the most distant galaxies ever observed. HST's ability to peer deep into the cosmos has enabled scientists to explore galaxy formation and evolution, the life cycles of stars, and the structure of the early universe.
@@ -103,4 +105,17 @@ As the successor to HST, JWST marks the next chapter in space-based astronomy, s
 
 ### EUCLID 
 
+The Euclid mission, led by the European Space Agency (ESA), is designed to address some of the most profound questions in modern cosmology, particularly concerning the nature of dark matter and dark energy. Launched in 2023, Euclid aims to map the geometry of the universe by observing billions of galaxies across more than a third of the sky, spanning distances of up to 10 billion light-years. This ambitious survey will provide unprecedented data on the large-scale structure of the universe, offering key insights into the distribution of dark matter and the accelerated expansion driven by dark energy.
+
+Euclid’s powerful instruments operate in the visible (VIS) and near-infrared (NIR) wavelengths, allowing it to detect faint galaxies and cosmic structures with extraordinary precision. Through its wide-field imaging and spectroscopic capabilities, the mission will measure the shapes, positions, and redshifts of galaxies, enabling scientists to trace the evolution of cosmic structures over time. By studying gravitational lensing and galaxy clustering, Euclid will map the distribution of dark matter and test different models of dark energy, shedding light on the mysterious forces shaping the cosmos.
+
+Euclid complements other major observatories like the James Webb Space Telescope (JWST) and the Hubble Space Telescope (HST), but with a unique focus on the large-scale structure of the universe rather than individual galaxies or distant stars. As a cornerstone of ESA’s Cosmic Vision program, Euclid will provide crucial data that could lead to paradigm-shifting discoveries in cosmology, helping to refine or challenge the current standard model of cosmology, the Lambda Cold Dark Matter (ΛCDM) model.
+
 <h4>Researchers involved</h4>
+
+- [Enrique Martínez]({{site.url}}/martineze)
+- [José María Diego]({site.url}}/diegojm)
+- [Ana Acebrón]({{site.url}}/acebrona)
+- [José María Palencia]({{site.url}}/palenciajm)
+- [Sefa Pamuk]({{site.url}}/pamuks)
+- [Guillermo Martínez]({{site.url}}/martinezg)
