@@ -125,6 +125,15 @@ As the successor to HST, JWST marks the next chapter in space-based astronomy, s
 
 ### MeerKLASS
 
+<p style="float: left; width: 70%; margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/jwst.jpg" style="width:500px;height:250px;"></p>
+
+MeerKLASS (MeerKAT Large Area Synoptic Survey) is a 21-cm line-intensity mapping survey carried out using the [MeerKAT telescope](https://www.sarao.ac.za/science/meerkat/about-meerkat/). MeerKLASS aims for the first large-volume low-redshift line-intensity mapping survey, with plans to cover up to 10.000 deg² on the sky, from redshifts between 0.35 and 1.45 in the UHF band. 
+
+With these observations, and building upon the results obtained in smaller volumes in the L-band (200 deg², narrow redshift band around 0.45) the main goals are to obtain the first line-intensity mapping detection of the auto-power spectrum at large scales and measure the baryon acoustic oscillations. These observational and theoretical efforts will pave the road for 21-cm line-intensity mapping cosmological studies using the future [SKAO](https://www.skao.int/en).
+
+IFCA researchers involved in MeerKLASS focus on the theoretical modeling of the signal (including analytic models and simulations), as well as on the development of methodologies to improve foreground mitigation. 
+
+
 <h4>Researchers involved</h4>
 
 - [José Luis Bernal]({{site.url}}/bernaljl)
