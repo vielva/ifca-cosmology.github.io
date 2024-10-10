@@ -4,7 +4,7 @@ layout: default
 
 
 
-<p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/herranzd.jpg" style="width:250px;height:270px;"> Outreach information: <a href="https://x.com/dgherranz">@dgherranz</a></p>
+<p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/herranzd.jpg" style="width:250px;height:270px;"> Outreach information: <a href="https://x.com/dgherranz">@dgherranz</a> <br> mail: herranz(at)ifca.unican.es <br> Office: 116 </p>
 
 # Diego Herranz
 

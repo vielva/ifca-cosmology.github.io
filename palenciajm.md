@@ -4,7 +4,7 @@ layout: default
 
 
 
-<p style="float: left; width: 40%; margin:40px"><img src="{{site.url}}/assets/imgs/People/palenciajm.jpg" style="width:315px;height:300px;"> </p>
+<p style="float: left; width: 40%; margin:40px"><img src="{{site.url}}/assets/imgs/People/palenciajm.jpg" style="width:315px;height:300px;"> <br> mail: palencia(at)ifca.unican.es <br> Office: 113 </p>
 
 # José María Palencia (Chema)
 

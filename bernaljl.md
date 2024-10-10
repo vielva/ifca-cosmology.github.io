@@ -4,7 +4,7 @@ layout: default
 
 
 
-<p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/bernaljl.jpg" style="width:224px;height:300px;"> <a href="https://jl-bernal.github.io/">Personal website</a></p>
+<p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/bernaljl.jpg" style="width:224px;height:300px;"> <a href="https://jl-bernal.github.io/">Personal website</a> <br> mail: jlbernal(at)ifca.unican.es <br> Office: 121 </p>
 
 # José Luis Bernal
 
