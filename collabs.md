@@ -103,7 +103,7 @@ Since HETDEX galaxy survey does not employ galaxy targeting (thanks to the IFUs)
 
 ### JWST & HST 
 
-<p style="float: left; width: 60%; margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/jwst.jpg" style="width:410px;height:250px;"></p>
+<p style="float: left; width: 65%; margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/jwst.jpg" style="width:500px;height:250px;"></p>
 
 The Hubble Space Telescope (HST), launched in 1990 by NASA in collaboration with ESA, is one of the most significant astronomical observatories in history. Operating in low Earth orbit, HST has revolutionised our understanding of the universe by providing incredibly detailed images across ultraviolet, visible, and near-infrared wavelengths. Its observations have transformed numerous fields in astronomy, from studying distant galaxies and dark matter to uncovering the mysteries of exoplanets and black holes.
 
@@ -125,7 +125,7 @@ As the successor to HST, JWST marks the next chapter in space-based astronomy, s
 
 ### MeerKLASS
 
-<p style="float: left; width: 70%; margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/meerklass.jpg" style="width:500px;height:250px;"></p>
+<p style="float: left; width: 65%; margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/meerklass.jpg" style="width:500px;height:250px;"></p>
 
 MeerKLASS (MeerKAT Large Area Synoptic Survey) is a 21-cm line-intensity mapping survey carried out using the [MeerKAT telescope](https://www.sarao.ac.za/science/meerkat/about-meerkat/). MeerKLASS aims for the first large-volume low-redshift line-intensity mapping survey, with plans to cover up to 10.000 deg² on the sky, from redshifts between 0.35 and 1.45 in the UHF band. 
 
