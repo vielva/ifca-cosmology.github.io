@@ -27,17 +27,19 @@ ARRAKIHS will carry out the most detailed survey ever conducted of galaxy halos 
 
 ARRAKIHS addresses several key challenges in cosmology, such as the “missing satellites” and “too big to fail” problems, where the number of observed dwarf galaxies in galaxy halos is lower than predicted by CDM models. Through deep imaging, the mission will catalogue previously undetectable satellite galaxies and faint stellar streams—evidence of past galaxy mergers—that hold the key to understanding the hierarchical formation of galaxies and test different dark matter models as a key driver for cosmological evolution.
 
-The mission is the second F-class mission selected by ESA and the first ESA mission led by a Spanish institution. Professor Rafael Guzmán from the Instituto de Física de Cantabria (IFCA) serves as the Principal Investigator. IFCA plays a central role, contributing to the mission's Science and Ground Segment working packages. IFCA also hosts the ARRAKIHS Communication Office, Project Office and Science Data Centre. The ARRAKIHS mission will also complement other major projects like the Euclid mission, offering a broader understanding of dark matter by focusing on the local universe rather than distant, high-redshift galaxies. Thus, ARRAKIHS bridges the observational gap in dark matter research, connecting the microscopic scales explored by particle physics experiments like DAMIC-M with the vast cosmological scales investigated by large-scale projects such as JWST-HST, Euclid, QUIJOTE, and LiteBIRD.
+The mission is the second F-class mission selected by ESA and the first ESA mission led by a Spanish institution. Professor Rafael Guzmán from the Instituto de Física de Cantabria (IFCA) serves as the Principal Investigator. IFCA plays a central role, contributing to the mission's Science and Ground Segment working packages. IFCA also hosts the ARRAKIHS Communication Office, Project Office and Science Data Centre, and also to the instrumentation, coordinating the NIR detectors and Front-End Electronics WPs of the last PRODEX call. The ARRAKIHS mission will also complement other major projects like the Euclid mission, offering a broader understanding of dark matter by focusing on the local universe rather than distant, high-redshift galaxies. Thus, ARRAKIHS bridges the observational gap in dark matter research, connecting the microscopic scales explored by particle physics experiments like DAMIC-M with the vast cosmological scales investigated by large-scale projects such as JWST-HST, Euclid, QUIJOTE, and LiteBIRD.
 
 <h4>Researchers involved</h4>
 
 - [Sandra Carcedo]({{site.url}}/carcedos)
 - [Biuse Casaponsa]({{site.url}}/casaponsab)
+- [Francisco Javier Casas]({{site.url}}/casasfj)
 - [José María Diego]({site.url}}/diegojm)
 - [Helena Domínguez Sánchez]({{site.url}}/dominguezh)
 - [Rafael Guzmán]({{site.url}}/guzmanr)
 - [Diego Herranz]({{sire.url}}/herranzd)
 - [Nicolas Longeard]({{site.url}}/longeardn)
+- [Enrique Martínez-Fernández]({{site.url}}/martineze)
 - [Abram Pérez]({{site.url}}/pereza) 
 - [Juan Villafañe]({{site.url}}/villafanej)
 
@@ -55,6 +57,7 @@ CADEx is a collaboration formed by several research institutions in Spain. At IF
 <h4>Researchers involved</h4>
 
 - [Rita Belén Barreiro]({{site.url}}/barreirorb)
+- [Laura Castelló]({{site.url}}/castellol)
 - [Francisco Javier Casas]({{site.url}}/casasfj)
 - [Bradley J. Kavanagh]({{site.url}}/kavanaghbj)
 - [Enrique Martínez-Fernández]({{site.url}}/martineze)
@@ -79,6 +82,7 @@ Euclid complements other major observatories like the James Webb Space Telescope
 
 - [Ana Acebrón]({{site.url}}/acebrona)
 - [José María Diego]({site.url}}/diegojm)
+- [Helena Domínguez Sánchez]({{site.url}}/dominguezh)
 - [Enrique Martínez-Fernandez]({{site.url}}/martineze)
 - [Guillermo Martínez-Somonte]({{site.url}}/martinezg)
 - [José María Palencia]({{site.url}}/palenciajm)
@@ -87,6 +91,9 @@ Euclid complements other major observatories like the James Webb Space Telescope
 ### HETDEX
 
 <h4>Researchers involved</h4>
+
+- [José Luis Bernal]({{site.url}}/bernaljl)
+
 
 ### JWST & HST 
 
@@ -102,7 +109,7 @@ The James Webb Space Telescope (JWST), launched in 2021 by NASA in partnership w
 
 JWST's powerful capabilities include a 6.5-metre primary mirror and a suite of sophisticated instruments that provide unprecedented sensitivity and resolution. Its ability to observe in the infrared spectrum makes it ideal for studying the formation of stars and planets within dense clouds of gas and dust, probing the atmospheres of exoplanets for signs of habitability, and investigating the distant universe's evolution. By pushing the limits of observational astronomy, JWST is expected to offer new insights into the nature of dark matter and dark energy, providing critical data to complement other observatories like HST and Euclid.
 
-As the successor to HST, JWST marks the next chapter in space-based astronomy, significantly extending our ability to study both the early universe and the local cosmic neighbourhood, from faint galaxies to nearby star-forming regions.
+As the successor to HST, JWST marks the next chapter in space-based astronomy, significantly extending our ability to study both the early universe and the local cosmic neighborhood, from faint galaxies to nearby star-forming regions.
 
 <h4>Researchers involved</h4>
 
@@ -114,15 +121,41 @@ As the successor to HST, JWST marks the next chapter in space-based astronomy, s
 
 <h4>Researchers involved</h4>
 
+- [José Luis Bernal]({{site.url}}/bernaljl)
+- [Sefa Pamuk]({{site.url}}/pamuks)
+
 
 ### LiteBIRD 
 
 <h4>Researchers involved</h4>
 
+- [Rita Belén Barreiro]({{site.url}}/barreirorb)
+- [Francisco Javier Casas]({{site.url}}/casasfj)
+- [Laura Castelló]({{site.url}}/castellol)
+- [Christian Gimeno-Amo]({{site.url}}/gimenoc)
+- [Diego Herranz]({{sire.url}}/herranzd)
+- [Enrique Martínez-Fernández]({{site.url}}/martineze)
+- [Guillermo Martínez-Somonte]({{site.url}}/martinezg)
+- [Mathieu Remazeilles]({{site.url}}/remazeillesm)
+- [Miguel Ruiz-Granda]({{site.url}}/ruizgrandam)
+- [Patricio Vielva]({{site.url}}/vielvap)
+
+
 ### QUIJOTE 
 
 <h4>Researchers involved</h4>
 
+- [Rita Belén Barreiro]({{site.url}}/barreirorb)
+- [Francisco Javier Casas]({{site.url}}/casasfj)
+- [Diego Herranz]({{sire.url}}/herranzd)
+- [Enrique Martínez-Fernández]({{site.url}}/martineze)
+- [Patricio Vielva]({{site.url}}/vielvap)
+
 ### SKA
 
 <h4>Researchers involved</h4>
+
+- [José Luis Bernal]({{site.url}}/bernaljl)
+- [Diego Herranz]({{site.url}}/herranzd)
+- [Miguel Ruiz-Granda]({{site.url}}/ruizgrandam)
+- [Patricio Vielva]({{site.url}}/vielvap)
