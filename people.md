@@ -81,3 +81,9 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
 <p style="float: left; width: 28%; margin:20px; text-align: center;"><a href="{{site.url}}/castellol"><img src="{{site.url}}/assets/imgs/People/castellol.jpg" style="width:200px;height:215px;"></a><a href="{{site.url}}/castellol"><b> Laura Castelló </b></a></p>
 
 <p style="float: left; width: 28%; margin:20px; text-align: center;"><a href="{{site.url}}/villafanej"><img src="{{site.url}}/assets/imgs/People/villafanej.jpg" style="width:200px;height:215px;"></a><a href="{{site.url}}/villafanej"><b>Juan Villafañe </b></a></p>
+
+<p style="float: left; width: 28%; height: 280px; margin:20px; text-align: center;"></p>
+
+<p style="float: left; width: 28%; height: 280px; margin:20px; text-align: center;"></p>
+
+
