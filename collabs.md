@@ -127,7 +127,7 @@ As the successor to HST, JWST marks the next chapter in space-based astronomy, s
 
 <p style="float: left; width: 65%; margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/meerklass.jpg" style="width:500px;height:250px;"></p>
 
-MeerKLASS (MeerKAT Large Area Synoptic Survey) is a 21-cm line-intensity mapping survey carried out using the [MeerKAT telescope](https://www.sarao.ac.za/science/meerkat/about-meerkat/). MeerKLASS aims for the first large-volume low-redshift line-intensity mapping survey, with plans to cover up to 10.000 deg² on the sky, from redshifts between 0.35 and 1.45 in the UHF band. 
+MeerKLASS (MeerKAT Large Area Synoptic Survey) is a 21-cm line-intensity mapping survey carried out using the [MeerKAT telescope](https://www.sarao.ac.za/science/meerkat/about-meerkat/), one of the pathfinders for the SKAO. MeerKLASS aims for the first large-volume low-redshift line-intensity mapping survey, with plans to cover up to 10.000 deg² on the sky, from redshifts between 0.35 and 1.45 in the UHF band. 
 
 With these observations, and building upon the results obtained in smaller volumes in the L-band (200 deg², narrow redshift band around 0.45) the main goals are to obtain the first line-intensity mapping detection of the auto-power spectrum at large scales and measure the baryon acoustic oscillations. These observational and theoretical efforts will pave the road for 21-cm line-intensity mapping cosmological studies using the future [SKAO](https://www.skao.int/en).
 
@@ -167,6 +167,10 @@ IFCA researchers involved in MeerKLASS focus on the theoretical modeling of the 
 - [Patricio Vielva]({{site.url}}/vielvap)
 
 ### SKA
+
+<p style="float: left; width: 100%; margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/ska.jpg" style="width:800px;height:150px;"></p>
+
+The IFCA researchers contributing to the SKAO are focused on two main task forces. One the one hand, they are developing strategies for foreground mitigation, which will be key to unlock all the SKAO potential, especially for high redshifts and science related to the epoch of reionization. On the other hand, they are focused on the modeling of the signal and the development of science cases for the HI galaxy survey, radio-contin
 
 <h4>Researchers involved</h4>
 
