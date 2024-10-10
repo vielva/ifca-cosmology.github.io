@@ -142,6 +142,9 @@ IFCA researchers involved in MeerKLASS focus on the theoretical modeling of the 
 
 ### LiteBIRD 
 
+<p style="float: left; width: 53%; margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/litebird.jpg" style="width:350px;height:350px;"></p>
+
+
 <h4>Researchers involved</h4>
 
 - [Rita Belén Barreiro]({{site.url}}/barreirorb)
@@ -158,6 +161,27 @@ IFCA researchers involved in MeerKLASS focus on the theoretical modeling of the 
 
 ### QUIJOTE 
 
+<p style="float: left; width: 54%; margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/quijote.jpg" style="width:400px;height:300px;"></p>
+
+Here there is some description 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <h4>Researchers involved</h4>
 
 - [Rita Belén Barreiro]({{site.url}}/barreirorb)
@@ -170,7 +194,7 @@ IFCA researchers involved in MeerKLASS focus on the theoretical modeling of the 
 
 <p style="float: left; width: 100%; margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/ska.jpg" style="width:800px;height:150px;"></p>
 
-The IFCA researchers contributing to the SKAO are focused on two main task forces. One the one hand, they are developing strategies for foreground mitigation, which will be key to unlock all the SKAO potential, especially for high redshifts and science related to the epoch of reionization. On the other hand, they are focused on the modeling of the signal and the development of science cases for the HI galaxy survey, radio-contin
+The IFCA researchers contributing to the SKAO are focused on two main task forces. One the one hand, they are developing strategies for foreground mitigation, which will be key to unlock all the SKAO potential, especially for high redshifts and science related to the epoch of reionization. On the other hand, they are focused on the modeling of the signal and the development of science cases for the HI galaxy survey, radio-continuum galaxy survey, and 21-cm low-redshift line-intensity mapping survey.
 
 <h4>Researchers involved</h4>
 
