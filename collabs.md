@@ -51,9 +51,6 @@ The Canfranc Axion Detection Experiment (CADEx) is a planned search for the Dark
 
 CADEx is a collaboration formed by several research institutions in Spain. At IFCA, members from both the Cosmology and the Particle Physics group contribute to the collaboration.
 
-<br>
-<br>
-
 <h4>Researchers involved</h4>
 
 - [Rita Belén Barreiro]({{site.url}}/barreirorb)
@@ -72,7 +69,7 @@ CADEx is a collaboration formed by several research institutions in Spain. At IF
 
 <p style="float: left; width: 70%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/euclid.jpg" style="width:500px;height:250px;"></p>
 
-The Euclid mission, led by the European Space Agency (ESA), is designed to address some of the most profound questions in modern cosmology, particularly concerning the nature of dark matter and dark energy. Launched in 2023, Euclid aims to map the geometry of the universe by observing billions of galaxies across more than a third of the sky, spanning distances of up to 10 billion light-years. This ambitious survey will provide unprecedented data on the large-scale structure of the universe, offering key insights into the distribution of dark matter and the accelerated expansion driven by dark energy.
+The [Euclid mission](https://www.euclid-ec.org/), led by the European Space Agency (ESA), is designed to address some of the most profound questions in modern cosmology, particularly concerning the nature of dark matter and dark energy. Launched in 2023, Euclid aims to map the geometry of the universe by observing billions of galaxies across more than a third of the sky, spanning distances of up to 10 billion light-years. This ambitious survey will provide unprecedented data on the large-scale structure of the universe, offering key insights into the distribution of dark matter and the accelerated expansion driven by dark energy.
 
 Euclid’s powerful instruments operate in the visible (VIS) and near-infrared (NIR) wavelengths, allowing it to detect faint galaxies and cosmic structures with extraordinary precision. Through its wide-field imaging and spectroscopic capabilities, the mission will measure the shapes, positions, and redshifts of galaxies, enabling scientists to trace the evolution of cosmic structures over time. By studying gravitational lensing and galaxy clustering, Euclid will map the distribution of dark matter and test different models of dark energy, shedding light on the mysterious forces shaping the cosmos.
 
@@ -89,6 +86,15 @@ Euclid complements other major observatories like the James Webb Space Telescope
 - [Sefa Pamuk]({{site.url}}/pamuks)
 
 ### HETDEX
+
+<p style="float: left; width: 70%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/hetdex.jpg" style="width:500px;height:210px;"></p>
+
+The [Hobby-Eberly Telescope Dark Energy Experiment (HETDEX)](https://hetdex.org/) at The University of Texas at Austin McDonald Observatory is the first major experiment to probe dark energy through the expansion history of the Universe at high redshift. It uses the giant Hobby-Eberly Telescope and the VIRUS instruments (employing IFUs) to perform a spectroscopical galaxy survey of Lyman-alpha emitters at redshifts between 2.8 and 3.8. 
+
+HETDEX finished observing in 2024. HETDEX's main goal is to probe the large-scale structure at these high redshifts and, measuring the baryon acoustic oscillations and using them as a standard ruler, probe dark energy. Nonetheless, the quality and wealth of its measurements allows for a much wider scientific output.
+
+Since HETDEX galaxy survey does not employ galaxy targeting (thanks to the IFUs), fibers with non detections can be used to build a line-intensity map. Staff at IFCA contributing to HETDEX is focused on the study of the large-scale structure with HETDEX observations, in particular combining detections and non detections (i.e., cross correlating galaxy positions and line-intensity mapping observations).
+
 
 <h4>Researchers involved</h4>
 
