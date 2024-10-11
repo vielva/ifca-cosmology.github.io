@@ -76,7 +76,7 @@ IFCA's contribution to DAMIC-M includes members of both the Cosmology group and 
 
 ### EUCLID 
 
-<p style="float: left; width: 70%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/euclid.jpg" style="width:500px;height:250px;"></p>
+<p style="float: left; width: 60%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/euclid.jpg" style="width:500px;height:250px;"></p>
 
 The [Euclid mission](https://www.euclid-ec.org/), led by the European Space Agency (ESA), is designed to address some of the most profound questions in modern cosmology, particularly concerning the nature of dark matter and dark energy. Launched in 2023, Euclid aims to map the geometry of the universe by observing billions of galaxies across more than a third of the sky, spanning distances of up to 10 billion light-years. This ambitious survey will provide unprecedented data on the large-scale structure of the universe, offering key insights into the distribution of dark matter and the accelerated expansion driven by dark energy.
 
