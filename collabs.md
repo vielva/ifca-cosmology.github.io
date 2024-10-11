@@ -134,7 +134,7 @@ As the successor to HST, JWST marks the next chapter in space-based astronomy, s
 
 ### MeerKLASS
 
-<p style="float: left; width: 65%; margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/meerklass.jpg" style="width:500px;height:250px;"></p>
+<p style="float: left; width: 62%; margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/meerklass.jpg" style="width:500px;height:250px;"></p>
 
 MeerKLASS (MeerKAT Large Area Synoptic Survey) is a 21-cm line-intensity mapping survey carried out using the [MeerKAT telescope](https://www.sarao.ac.za/science/meerkat/about-meerkat/), one of the pathfinders for the SKAO. MeerKLASS aims for the first large-volume low-redshift line-intensity mapping survey, with plans to cover up to 10.000 deg² on the sky, from redshifts between 0.35 and 1.45 in the UHF band. 
 
