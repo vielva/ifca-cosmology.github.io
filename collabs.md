@@ -63,7 +63,7 @@ CADEx is a collaboration formed by several research institutions in Spain. At IF
 
 ### DAMIC-M 
 
-<p style="float: left; width: 40%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/damicm.jpg" style="width:300px;height:400px;"></p>
+<p style="float: left; width: 38%; margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/damicm.jpg" style="width:300px;height:400px;"></p>
 
 The [DAMIC-M](https://damic.uchicago.edu/index.php) experiment (DArk Matter In CCDs at Modane) will use charge coupled devices (CCDs) as pixellated ionisation detectors to search for Dark Matter. Based at the Laboratoire Souterrain de Modane (LSM) in France, DAMIC-M will eventually consist of ~1 kg of active Silicon detector mass. Crucially, DAMIC-M will make use of 'skipper' readout technology, in which the charge in each CCD pixel can be read-out multiple times in a non-destructive way, allowing the experiment to achieve single-electron resolution, providing world-leading sensitivity to DM-nuclear and DM-electron scattering. This unconventional use of CCDs has been successfully demonstrated by DAMIC at the SNOLAB underground laboratory in Canada where a 40-g prototype detector is currently operating. 
 
@@ -96,7 +96,7 @@ Euclid complements other major observatories like the James Webb Space Telescope
 
 ### HETDEX
 
-<p style="float: left; width: 70%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/hetdex.jpg" style="width:500px;height:210px;"></p>
+<p style="float: left; width: 62%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/hetdex.jpg" style="width:500px;height:210px;"></p>
 
 The [Hobby-Eberly Telescope Dark Energy Experiment (HETDEX)](https://hetdex.org/) at The University of Texas at Austin McDonald Observatory is the first major experiment to probe dark energy through the expansion history of the Universe at high redshift. It uses the giant Hobby-Eberly Telescope and the VIRUS instruments (employing IFUs) to perform a spectroscopical galaxy survey of Lyman-alpha emitters at redshifts between 2.8 and 3.8. 
 
