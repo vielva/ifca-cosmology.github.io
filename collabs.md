@@ -63,7 +63,16 @@ CADEx is a collaboration formed by several research institutions in Spain. At IF
 
 ### DAMIC-M 
 
+<p style="float: left; width: 40%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/euclid.jpg" style="width:300px;height:400px;"></p>
+
+The [DAMIC-M](https://damic.uchicago.edu/index.php) experiment (DArk Matter In CCDs at Modane) will use charge coupled devices (CCDs) as pixellated ionisation detectors to search for Dark Matter. Based at the Laboratoire Souterrain de Modane (LSM) in France, DAMIC-M will eventually consist of ~1 kg of active Silicon detector mass. Crucially, DAMIC-M will make use of 'skipper' readout technology, in which the charge in each CCD pixel can be read-out multiple times in a non-destructive way, allowing the experiment to achieve single-electron resolution, providing world-leading sensitivity to DM-nuclear and DM-electron scattering. This unconventional use of CCDs has been successfully demonstrated by DAMIC at the SNOLAB underground laboratory in Canada where a 40-g prototype detector is currently operating. 
+
+IFCA's contribution to DAMIC-M includes members of both the Cosmology group and the Particle Physics & Instrumentation Group. The key contribution of the Cosmology group is in signal modelling and data analysis. 
+
+
 <h4>Researchers involved</h4>
+
+- [Bradley J. Kavanagh]({{site.url}}/kavanaghbj)
 
 ### EUCLID 
 
