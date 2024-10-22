@@ -56,7 +56,7 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
 
 <p style="float: left; width: 28%; margin:20px; text-align: center;"><a href="{{site.url}}/chandranj"><img src="{{site.url}}/assets/imgs/People/chandranj.jpg" style="width:200px;height:215px;"></a><a href="{{site.url}}/chandranj"><b>Jyothis Chandran </b></a></p>
 
-<p style="float: left; width: 28%; margin:20px; text-align: center;"><a href="{{site.url}}/gimenoa"><img src="{{site.url}}/assets/imgs/People/gimenoc.jpg" style="width:200px;height:215px;"></a><a href="{{site.url}}/gimenoc"><b>Christian Gimeno-Amo </b></a></p>
+<p style="float: left; width: 28%; margin:20px; text-align: center;"><a href="{{site.url}}/gimenoc"><img src="{{site.url}}/assets/imgs/People/gimenoc.jpg" style="width:200px;height:215px;"></a><a href="{{site.url}}/gimenoc"><b>Christian Gimeno-Amo </b></a></p>
 
 <p style="float: left; width: 28%; margin:20px; text-align: center;"><a href="{{site.url}}/jangrap"><img src="{{site.url}}/assets/imgs/People/jangrap.jpg" style="width:170px;height:215px;"></a><a href="{{site.url}}/jangrap"><b>Pratibha Jangra </b></a></p>
 
