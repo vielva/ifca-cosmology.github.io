@@ -12,9 +12,9 @@ I'm Jose, and work as a theoretical physicist interested in cosmology and astrop
 
 <br>
 
-Mainly, I work on the interface between theoretical and observational cosmology, with special interest in improving the modeling of observables and optimizing the information return from cosmological observations. During the last years, my interests have been increasingly overlaping with extragalactic astrophysics, working on probes like line-intensity mapping that are sensitive both to cosmology and astrophysics. I also have dedicated much work and thought to tensions between cosmological observations and agnostic approaches to analyze their measurements, as well as to the phenomenology of dark matter models beyond CDM.
+Mainly, I work on the interface between theoretical and observational cosmology, with special interest in improving the modeling of observables and optimizing the information return from cosmological observations. During the last years, my interests have been increasingly overlapping with extragalactic astrophysics, working on probes like line-intensity mapping that are sensitive both to cosmology and astrophysics. I also have dedicated much work and thought to tensions between cosmological observations and agnostic approaches to analyze their measurements, as well as to the phenomenology of dark matter models beyond CDM.
 
-Beyond my research, I am deeply committed to science outreach and the promotion of scientific culture: I have participated in several workshops and activities for school and high-school students; and I have given several public talks for general public.
+Beyond my research, I am deeply committed to science outreach and the promotion of scientific culture: I have participated in several workshops and activities for school and high-school students; and I have given several public talks for general public. Currently, I am the representative of the Cosmology group in the IFCA outreach efforts. 
 
 ### Research interests
 - Line-Intensity Mapping
