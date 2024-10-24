@@ -68,7 +68,7 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
 
 <p style="float: left; width: 28%; margin:20px; text-align: center;"><a href="{{site.url}}/pereza"><img src="{{site.url}}/assets/imgs/People/pereza.jpg" style="width:200px;height:215px;"></a><a href="{{site.url}}/pereza"><b>Abram Pérez </b></a></p>
 
-<p style="float: left; width: 28%; margin:20px; text-align: center;"><a href="{{site.url}}/ruizgrandam"><img src="{{site.url}}/assets/imgs/People/ruizgrandam.jpg" style="width:200px;height:215px;"></a><a href="{{site.url}}/ruizgrandam"><b>Miguel Ruiz-Granda </b></a></p>
+<p style="float: left; width: 28%; margin:20px; text-align: center;"><a href="{{site.url}}/ruizgrandam"><img src="{{site.url}}/assets/imgs/People/ruizgrandam.jpg" style="width:170px;height:215px;"></a><a href="{{site.url}}/ruizgrandam"><b>Miguel Ruiz-Granda </b></a></p>
 
 <p style="float: left; width: 28%; height: 280px; margin:20px; text-align: center;"></p>
 
