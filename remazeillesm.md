@@ -4,7 +4,7 @@ layout: default
 
 
 
-<p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/remazeillesm.jpg" style="width:224px;height:300px;"> <br> mail: remazeilles(at)ifca.unican.es <br> Office: xxx</p>
+<p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/remazeillesm.jpg" style="width:250px;height:270px;"> <br> mail: remazeilles(at)ifca.unican.es <br> Office: 101</p>
 
 # Mathieu Remazeilles
 
