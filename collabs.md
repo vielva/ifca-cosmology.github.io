@@ -268,7 +268,7 @@ HERE THERE'S SOME BLURB FOR LGWA
 
 ### LISA
 
-<p style="float: left; width: 40%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/bingo.jpg" style="width:310px;height:300px;"></p>
+<p style="float: left; width: 40%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/lisa.jpg" style="width:310px;height:300px;"></p>
 
 HERE THERE'S SOME BLURB FOR LISA
 
