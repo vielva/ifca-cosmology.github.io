@@ -78,7 +78,7 @@ HERE THERE'S SOME BLURB FOR BINGO
 
 <p style="float: left; width: 40%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/bisou.png" style="width:300px;height:420px;"></p>
 
-HERE THERE'S SOME BLURB FOR BISOU
+HERE THERE'S SOME BLURB FOR [BISOU](https://www.ias.u-psud.fr/en/content/bisou-moving-phase)
 
 <br>
 <br>
@@ -340,6 +340,7 @@ Here there is some description
 - [Francisco Javier Casas]({{site.url}}/casasfj)
 - [Diego Herranz]({{sire.url}}/herranzd)
 - [Enrique Martínez-Fernández]({{site.url}}/martineze)
+- [Mathieu Remazeilles]({{site.url}}/remazeillesm)
 - [Patricio Vielva]({{site.url}}/vielvap)
 
 ### SKA

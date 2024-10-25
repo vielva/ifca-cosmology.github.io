@@ -30,7 +30,7 @@ Remazeilles' current research includes the search for primordial CMB B-modes, as
 - [QUIJOTE](https://research.iac.es/proyecto/quijote/pages/en/home.php)
 - [LiteBIRD](https://www.isas.jaxa.jp/en/missions/spacecraft/future/litebird.html)
 - [CMB-S4](https://cmb-s4.org/es/cmb-s4/)
-- BISOU
+- [BISOU](https://www.ias.u-psud.fr/en/content/bisou-moving-phase)
 - [BINGO](https://bingotelescope.org/)
 
 <br>
