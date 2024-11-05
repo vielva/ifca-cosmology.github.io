@@ -30,10 +30,11 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
 
 <p style="float: left; width: 245px; margin:10px; text-align: center;"><a href="{{site.url}}/vielvap"><img src="{{site.url}}/assets/imgs/People/vielvap.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/vielvap"><b>Patricio Vielva</b><br><br></a></p>
 
-<p style="float: left; width: 28%; height: 280px; margin:20px; text-align: center;"></p>
+<p style="float: left; width: 245px; margin:10px; height: 280px; text-align: center;"></p>
 
-<p style="float: left; width: 28%; height: 280px; margin:20px; text-align: center;"></p>
+<p style="float: left; width: 245px; margin:10px; height: 280px; text-align: center;"></p>
 
+---
 
 ## Postdocs
 
@@ -51,6 +52,8 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
 
 <br>
 <br>
+
+---
 
 ## PhD Candidates
 
@@ -72,6 +75,11 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
 
 <p style="float: left; width: 28%; height: 280px; margin:20px; text-align: center;"></p>
 
+
+---
+
+
+
 ## Technical Staff
 
 <p style="float: left; width: 245px; margin:10px; text-align: center;"><a href="{{site.url}}/carcedos"><img src="{{site.url}}/assets/imgs/People/carcedos.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/carcedos"><b>Sandra Carcedo </b></a></p>
@@ -87,3 +95,4 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
 <p style="float: left; width: 28%; height: 280px; margin:20px; text-align: center;"></p>
 
 
+---
