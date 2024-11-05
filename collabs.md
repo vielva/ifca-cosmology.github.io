@@ -14,6 +14,7 @@ The [research lines]({{site.url}}/lines) explored by the members of the Cosmolog
 - [DAMIC-M]({{site.url}}/collabs#damic-m)
 - [EUCLID]({{site.url}}/collabs#euclid)
 - [HETDEX]({{site.url}}/collabs#hetdex)
+- [J-PAS]({{site.url}}/collabs#j-pas)
 - [JWST & HST]({{site.url}}/collabs#jwst-&-hst)
 - [LiteBIRD]({{site.url}}/collabs#litebird)
 - [MeerKLASS]({{site.url}}/collabs#meerklass)
@@ -197,6 +198,8 @@ Since HETDEX galaxy survey does not employ galaxy targeting (thanks to the IFUs)
 
 - [José Luis Bernal]({{site.url}}/bernaljl)
 
+
+### J-PAS
 
 ### JWST & HST 
 

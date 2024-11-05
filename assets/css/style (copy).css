@@ -321,14 +321,3 @@ a:hover { text-decoration: underline; }
 .site-footer-owner { display: block; font-weight: bold; }
 
 .site-footer-credits { color: #819198; }
-
-/* Moving grid*/
-.movegrid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(245px, 0.3fr));
-  grid-gap: 2em;
-  justify-self: center;
-  align-self: center;
-  text-align: center;
-}
-
