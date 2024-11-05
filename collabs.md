@@ -22,7 +22,7 @@ The [research lines]({{site.url}}/lines) explored by the members of the Cosmolog
 - [SKA]({{site.url}}/collabs#ska)
 
 
-<p style="float: left; width: 40%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/ARRAKIHS.png" style="width:310px;height:310px;"></p>
+<p style="float: left; width: minmax(350px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/ARRAKIHS.png" style="width:310px;height:310px;"></p>
 
 ### ARRAKIHS
 The ARRAKIHS mission (Analysis of Resolved Remnants of Accreted galaxies as a Key Instrument for Halo Surveys) is a cutting-edge European Space Agency (ESA) project designed to explore the ultra-low surface brightness universe. ARRAKIHS aims to tackle one of the most profound questions in modern cosmology: the nature of dark matter. This mission will provide unprecedented data by systematically observing about one hundred nearby galaxy halos, probing the faint remnants of galaxy interactions and dark matter distribution that are invisible to ground-based telescopes.
@@ -49,7 +49,7 @@ The mission is the second F-class mission selected by ESA and the first ESA miss
 
 ### BINGO
 
-<p style="float: left; width: 40%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/bingo.png" style="width:310px;height:300px;"></p>
+<p style="float: left; minmax(350px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/bingo.png" style="width:310px;height:300px;"></p>
 
 HERE THERE'S SOME BLURB FOR BINGO
 
@@ -77,7 +77,7 @@ HERE THERE'S SOME BLURB FOR BINGO
 
 ### BISOU
 
-<p style="float: left; width: 40%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/bisou.png" style="width:300px;height:420px;"></p>
+<p style="float: left; minmax(340px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/bisou.png" style="width:300px;height:420px;"></p>
 
 HERE THERE'S SOME BLURB FOR [BISOU](https://www.ias.u-psud.fr/en/content/bisou-moving-phase)
 
@@ -106,7 +106,7 @@ HERE THERE'S SOME BLURB FOR [BISOU](https://www.ias.u-psud.fr/en/content/bisou-m
 
 ### CADEx 
 
-<p style="float: left; width: 40%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/cadex.png" style="width:310px;height:236px;"></p>
+<p style="float: left; minmax(350px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/cadex.png" style="width:310px;height:236px;"></p>
 
 The Canfranc Axion Detection Experiment (CADEx) is a planned search for the Dark Matter axion in the mass range (330–460 μeV) within the W-band (80–110 GHz). CADEx combines a microwave resonant cavity haloscope with a broadband incoherent detector system to be installed in the dilution refrigerator in the Canfranc Underground Lab (LSC). CADEx is currently in the design and development phase.
 
@@ -124,7 +124,7 @@ CADEx is a collaboration formed by several research institutions in Spain. At IF
 
 ### CMB-S4
 
-<p style="float: left; width: 60%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/cmbs4.jpg" style="width:500px;height:260px;"></p>
+<p style="float: left; minmax(540px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/cmbs4.jpg" style="width:500px;height:260px;"></p>
 
 HERE THERE'S SOME BLURB FOR CMB S4
 
@@ -152,7 +152,7 @@ HERE THERE'S SOME BLURB FOR CMB S4
 
 ### DAMIC-M 
 
-<p style="float: left; width: 38%; margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/damicm.jpg" style="width:300px;height:400px;"></p>
+<p style="float: left; minmax(340px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/damicm.jpg" style="width:300px;height:400px;"></p>
 
 The [DAMIC-M](https://damic.uchicago.edu/index.php) experiment (DArk Matter In CCDs at Modane) will use charge coupled devices (CCDs) as pixellated ionisation detectors to search for Dark Matter. Based at the Laboratoire Souterrain de Modane (LSM) in France, DAMIC-M will eventually consist of ~1 kg of active Silicon detector mass. Crucially, DAMIC-M will make use of 'skipper' readout technology, in which the charge in each CCD pixel can be read-out multiple times in a non-destructive way, allowing the experiment to achieve single-electron resolution, providing world-leading sensitivity to DM-nuclear and DM-electron scattering. This unconventional use of CCDs has been successfully demonstrated by DAMIC at the SNOLAB underground laboratory in Canada where a 40-g prototype detector is currently operating. 
 
@@ -165,7 +165,7 @@ IFCA's contribution to DAMIC-M includes members of both the Cosmology group and 
 
 ### EUCLID 
 
-<p style="float: left; width: 60%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/euclid.jpg" style="width:500px;height:250px;"></p>
+<p style="float: left; minmax(540px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/euclid.jpg" style="width:500px;height:250px;"></p>
 
 The [Euclid mission](https://www.euclid-ec.org/), led by the European Space Agency (ESA), is designed to address some of the most profound questions in modern cosmology, particularly concerning the nature of dark matter and dark energy. Launched in 2023, Euclid aims to map the geometry of the universe by observing billions of galaxies across more than a third of the sky, spanning distances of up to 10 billion light-years. This ambitious survey will provide unprecedented data on the large-scale structure of the universe, offering key insights into the distribution of dark matter and the accelerated expansion driven by dark energy.
 
@@ -185,7 +185,7 @@ Euclid complements other major observatories like the James Webb Space Telescope
 
 ### HETDEX
 
-<p style="float: left; width: 62%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/hetdex.jpg" style="width:500px;height:210px;"></p>
+<p style="float: left; minmax(540px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/hetdex.jpg" style="width:500px;height:210px;"></p>
 
 The [Hobby-Eberly Telescope Dark Energy Experiment (HETDEX)](https://hetdex.org/) at The University of Texas at Austin McDonald Observatory is the first major experiment to probe dark energy through the expansion history of the Universe at high redshift. It uses the giant Hobby-Eberly Telescope and the VIRUS instruments (employing IFUs) to perform a spectroscopical galaxy survey of Lyman-alpha emitters at redshifts between 2.8 and 3.8. 
 
@@ -203,7 +203,7 @@ Since HETDEX galaxy survey does not employ galaxy targeting (thanks to the IFUs)
 
 ### JWST & HST 
 
-<p style="float: left; width: 65%; margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/jwst.jpg" style="width:500px;height:250px;"></p>
+<p style="float: left; minmax(540px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/jwst.jpg" style="width:500px;height:250px;"></p>
 
 The Hubble Space Telescope (HST), launched in 1990 by NASA in collaboration with ESA, is one of the most significant astronomical observatories in history. Operating in low Earth orbit, HST has revolutionised our understanding of the universe by providing incredibly detailed images across ultraviolet, visible, and near-infrared wavelengths. Its observations have transformed numerous fields in astronomy, from studying distant galaxies and dark matter to uncovering the mysteries of exoplanets and black holes.
 
@@ -225,7 +225,7 @@ As the successor to HST, JWST marks the next chapter in space-based astronomy, s
 
 ### LiteBIRD 
 
-<p style="float: left; width: 53%; margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/litebird.jpg" style="width:350px;height:350px;"></p>
+<p style="float: left; minmax(390px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/litebird.jpg" style="width:350px;height:350px;"></p>
 
 
 <h4>Researchers involved</h4>
@@ -244,7 +244,7 @@ As the successor to HST, JWST marks the next chapter in space-based astronomy, s
 
 ### Lunar Gravitational Wave Antenna (LGWA)
 
-<p style="float: left; width: 40%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/LGWA.png" style="width:310px;height:170px;"></p>
+<p style="float: left; minmax(350px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/LGWA.png" style="width:310px;height:170px;"></p>
 
 HERE THERE'S SOME BLURB FOR LGWA
 
@@ -271,7 +271,7 @@ HERE THERE'S SOME BLURB FOR LGWA
 
 ### LISA
 
-<p style="float: left; width: 40%; margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/lisa.jpg" style="width:310px;height:300px;"></p>
+<p style="float: left; minmax(350px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/lisa.jpg" style="width:310px;height:300px;"></p>
 
 HERE THERE'S SOME BLURB FOR LISA
 
@@ -299,7 +299,7 @@ HERE THERE'S SOME BLURB FOR LISA
 
 ### MeerKLASS
 
-<p style="float: left; width: 62%; margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/meerklass.jpg" style="width:500px;height:250px;"></p>
+<p style="float: left; minmax(540px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/meerklass.jpg" style="width:500px;height:250px;"></p>
 
 MeerKLASS (MeerKAT Large Area Synoptic Survey) is a 21-cm line-intensity mapping survey carried out using the [MeerKAT telescope](https://www.sarao.ac.za/science/meerkat/about-meerkat/), one of the pathfinders for the SKAO. MeerKLASS aims for the first large-volume low-redshift line-intensity mapping survey, with plans to cover up to 10.000 deg² on the sky, from redshifts between 0.35 and 1.45 in the UHF band. 
 
@@ -316,7 +316,7 @@ IFCA researchers involved in MeerKLASS focus on the theoretical modeling of the 
 
 ### QUIJOTE 
 
-<p style="float: left; width: 54%; margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/quijote.jpg" style="width:400px;height:300px;"></p>
+<p style="float: left; minmax(440px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/quijote.jpg" style="width:400px;height:300px;"></p>
 
 Here there is some description 
 
@@ -348,7 +348,7 @@ Here there is some description
 
 ### SKA
 
-<p style="float: left; width: 100%; margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/ska.jpg" style="width:800px;height:150px;"></p>
+<p style="float: left; minmax(840px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/ska.jpg" style="width:800px;height:150px;"></p>
 
 The IFCA researchers contributing to the SKAO are focused on two main task forces. One the one hand, they are developing strategies for foreground mitigation, which will be key to unlock all the SKAO potential, especially for high redshifts and science related to the epoch of reionization. On the other hand, they are focused on the modeling of the signal and the development of science cases for the HI galaxy survey, radio-continuum galaxy survey, and 21-cm low-redshift line-intensity mapping survey.
 
