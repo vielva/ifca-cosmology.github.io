@@ -17,6 +17,8 @@ The [research lines]({{site.url}}/lines) explored by the members of the Cosmolog
 - [J-PAS]({{site.url}}/collabs#j-pas)
 - [JWST & HST]({{site.url}}/collabs#jwst-&-hst)
 - [LiteBIRD]({{site.url}}/collabs#litebird)
+- [Lunar Gravitational Wave Antenna]({{site.url}}/collabs#lunar-gravitational-wave-antenna)
+- [LISA]({{site.url}}/collabs#lisa)
 - [MeerKLASS]({{site.url}}/collabs#meerklass)
 - [QUIJOTE]({{site.url}}/collabs#quijote)
 - [SKA]({{site.url}}/collabs#ska)
@@ -201,7 +203,7 @@ Since HETDEX galaxy survey does not employ galaxy targeting (thanks to the IFUs)
 
 ### J-PAS
 
-<p style="float: left; minmax(540px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/jwst.jpg" style="width:500px;height:250px;"></p>
+<p style="float: left; minmax(540px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/jpas.jpg" style="width:500px;height:250px;"></p>
 
 HERE SOME BLURB ABOUT JPAS
 
