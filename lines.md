@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Research lines
-
 The interests of the members of the Cosmology Group at IFCA cover a wide variety of topics in cosmology. Since there is a strong emphasis of the group on observational cosmology, we also contribute to many [collaborations, missions and international projects]({{site.url}}/collabs) related with these research lines. You can find some more details about our research interests below. 
 
 # Research Lines
@@ -23,7 +21,7 @@ The interests of the members of the Cosmology Group at IFCA cover a wide variety
 
 <p style="float: left; width: minmax(540px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Lines/cmb.jpg" style="width:500px;height:250px;"></p>
 
-### Cosmic Microwave Background
+## Cosmic Microwave Background
 
 HERE SOME BLURB ABOUT CMB
 
@@ -46,7 +44,7 @@ HERE SOME BLURB ABOUT CMB
 - [CMB-S4]({{site.url}}/collabs#CMB-S4)
 - [LiteBIRD]({{site.url}}/collabs#litebird)
 
-### CMB Secondary Anisotropies and Extragalactic Foregrounds
+## CMB Secondary Anisotropies and Extragalactic Foregrounds
 
 WE CAN MERGE THIS WITH CMB! (but I understand them as different)
 
@@ -72,7 +70,7 @@ WE CAN MERGE THIS WITH CMB! (but I understand them as different)
 - [LiteBIRD]({{site.url}}/collabs#litebird)
 - [QUIJOTE]({{site.url}}/collabs#quijote)
 
-### Cosmological Tensions
+## Cosmological Tensions
 
 BLURB ABOUT COSMO TENSIONS
 
@@ -81,7 +79,7 @@ BLURB ABOUT COSMO TENSIONS
 - [José Luis Bernal]({{site.url}}/bernaljl)
 
 
-### Dark Matter
+## Dark Matter
 
 BLURB ABOUT DM!!
 
@@ -109,7 +107,7 @@ BLURB ABOUT DM!!
 - [DAMIC-M]({{site.url}}/collabs#damic-m)
 
 
-### Galaxy Formation and Evolution
+## Galaxy Formation and Evolution
 
 BLURB ABOUT GAL EVOL AND FORM
 
@@ -127,7 +125,7 @@ BLURB ABOUT GAL EVOL AND FORM
 - [MeerKLASS]({{site.url}}/collabs#meerklass)
 - [SKA]({{site.url}}/collabs#ska)
 
-### Gravitational Lensing
+## Gravitational Lensing
 
 BLURB ABOUT GRAV LENS
 
@@ -143,7 +141,7 @@ BLURB ABOUT GRAV LENS
 - [J-PAS]({{site.url}}/collabs#j-pas)
 - [JWST & HST]({{site.url}}/collabs#jwst-&-hst)
 
-### Gravitational Waves
+## Gravitational Waves
 
 BLURB ABOUT GRAV WAVES
 
@@ -157,7 +155,7 @@ BLURB ABOUT GRAV WAVES
 - [LISA]({{site.url}}/collabs#lisa)
 
 
-### Large-Scale Structure
+## Large-Scale Structure
 
 BLURB ABOUT LSS
 
@@ -181,7 +179,7 @@ BLURB ABOUT LSS
 
 <p style="float: left; width: minmax(700px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Lines/lim.jpg" style="width:750px;height:215px;"></p>
 
-### Line-Intensity Mapping
+## Line-Intensity Mapping
 
 Line-intensity mapping (LIM) is a technique that employs low-aperture instruments to quickly scan the sky and collect all the incoming radiation, targetting identifiable spectral lines to recover radial information through good experimental spectral resolution. Since it does not requires to resolve individual sources, LIM provides access to redshifts well beyond the reach of galaxy surveys and is also sensitive to the population of faint sources that are hard to resolve individually. This provides direct access to epochs of the history of the Universe and regimes that are inaccessible otherwise.
 
