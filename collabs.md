@@ -201,6 +201,34 @@ Since HETDEX galaxy survey does not employ galaxy targeting (thanks to the IFUs)
 
 ### J-PAS
 
+<p style="float: left; minmax(540px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/jwst.jpg" style="width:500px;height:250px;"></p>
+
+HERE SOME BLURB ABOUT JPAS
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<h4>Researchers involved</h4>
+
+- [Enrique Martínez-Fernández]({{site.url}}/martineze)
+- [Guillermo Martínez-Somonte]({{site.url}}/martinezg)
+
+
 ### JWST & HST 
 
 <p style="float: left; minmax(540px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/jwst.jpg" style="width:500px;height:250px;"></p>
