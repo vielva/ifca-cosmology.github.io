@@ -179,7 +179,7 @@ BLURB ABOUT LSS
 - [SKA]({{site.url}}/collabs#ska)
 
 
-<p style="float: left; width: minmax(700px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Lines/lim.jpg" style="width:685px;height:185px;"></p>
+<p style="float: left; width: minmax(700px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Lines/lim.jpg" style="width:750px;height:215px;"></p>
 
 ### Line-Intensity Mapping
 
