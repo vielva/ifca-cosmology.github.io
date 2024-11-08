@@ -97,8 +97,8 @@ BLURB ABOUT DM!!
 - [Nicolas Longeard]({{site.url}}/longeardn)
 - [Enrique Martínez-Fernández]({{site.url}}/martineze)
 - [José María Palencia]({{site.url}}/palenciajm)
+- [Abram Pérez Herrero]({{site.url}}/pereza)
 - [Patricio Vielva]({{site.url}}/vielvap)
-- [Abram Pérez]({{site.url}}/pereza)
 
 <h4>Related collaborations we are part of</h4>
 

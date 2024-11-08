@@ -100,7 +100,7 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
   <a href="{{site.url}}/pamuks"><img src="{{site.url}}/assets/imgs/People/pamuks.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/pamuks"><b>Sefa Pamuk </b></a>
   </section>
   <section class="card">
-  <a href="{{site.url}}/pereza"><img src="{{site.url}}/assets/imgs/People/pereza.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/pereza"><b>Abram Pérez </b></a>
+  <a href="{{site.url}}/pereza"><img src="{{site.url}}/assets/imgs/People/pereza.jpg" style="width:170px;height:215px;"></a><br><a href="{{site.url}}/pereza"><b>Abram Pérez Herrero</b></a>
   </section>
   <section class="card">
   <a href="{{site.url}}/ruizgrandam"><img src="{{site.url}}/assets/imgs/People/ruizgrandam.jpg" style="width:170px;height:215px;"> <br> </a><a href="{{site.url}}/ruizgrandam"><b> Miguel Ruiz-Granda </b></a>
