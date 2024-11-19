@@ -68,6 +68,9 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
 <center>
 <div class="movegrid">
   <section class="card">
+  <a href="{{site.url}}/castellol"><img src="{{site.url}}/assets/imgs/People/castellol.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/castellol"><b> Laura Castelló </b></a>
+  </section>
+  <section class="card">
   <a href="{{site.url}}/khanmi"><img src="{{site.url}}/assets/imgs/People/khanmi.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/khanmi"><b>Md Ishaque Khan </b></a>
   </section>
   <section class="card">
@@ -120,9 +123,6 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
   </section>
   <section class="card">
   <a href="{{site.url}}/casaponsab"><img src="{{site.url}}/assets/imgs/People/casaponsab.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/casaponsab"><b>Biuse Casaponsa </b></a>
-  </section>
-  <section class="card">
-  <a href="{{site.url}}/castellol"><img src="{{site.url}}/assets/imgs/People/castellol.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/castellol"><b> Laura Castelló </b></a>
   </section>
   <section class="card">
   <a href="{{site.url}}/villafanej"><img src="{{site.url}}/assets/imgs/People/villafanej.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/villafanej"><b>Juan Villafañe </b></a>
