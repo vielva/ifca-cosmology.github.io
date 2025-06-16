@@ -17,6 +17,7 @@ layout: default
 
 - Cosmic Microwave Background
 - Machine Learning applications to Cosmology
+- Statistical analysis of signals and images
 
 
 ### Collaborations & Missions
