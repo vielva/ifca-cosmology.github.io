@@ -20,7 +20,7 @@ layout: default
 
 ### Collaborations & Missions
 
-- Litebird
+- LiteBIRD
 - ARRAKIHS
 - SKA
 
