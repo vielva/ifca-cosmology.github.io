@@ -4,7 +4,7 @@ layout: default
 
 
 
-<p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/villafanej.jpg" style="width:224px;height:300px;">
+<p style="float: left; width: 30%; margin:40px"><img src="/assets/imgs/People/villafanej.jpg" style="width:224px;height:300px;">
 
 Mail: villafane(at)ifca.unican.es
 Office: 124
