@@ -14,7 +14,7 @@ Office: 124
 
 I am the IT responsible for the ARRAKIHS Mission Project Office located at IFCA.
 
-I obtained my degree at the [University of Valladolid](https://www.uva.es/export/sites/uva/), my masters degree at the [University of La Laguna](https://www.ull.es/) and I worked for two years at the [Teide Observatory](https://www.iac.es/es/observatorios-de-canarias/observatorio-del-teide) an I have been contributing to the ARRAKIHS Project since February of 2024.
+I obtained my degree at the [University of Valladolid](https://www.uva.es/export/sites/uva/), my masters degree at the [University of La Laguna](https://www.ull.es/) and I worked for two years at the [Teide Observatory](https://www.iac.es/es/observatorios-de-canarias/observatorio-del-teide). I have been contributing to the ARRAKIHS Project since February of 2024.
 
 <br>
 
