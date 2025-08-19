@@ -24,9 +24,9 @@ Previously, my research centered on CMB data analysis, particularly the CMB cold
 
 ### Collaborations & Missions
 
-- LiteBIRD
+- [LiteBIRD](https://www.isas.jaxa.jp/en/missions/spacecraft/future/litebird.html)
 - ARRAKIHS
-- SKA
+- [SKA](https://www.skao.int/en)
 
 
 <br>

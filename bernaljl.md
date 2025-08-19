@@ -24,7 +24,7 @@ Beyond my research, I am deeply committed to science outreach and the promotion 
 
 ### Collaborations & Missions
 
-- MeerKLASS
+- [MeerKLASS](https://meerklass.org/)
 - [HETDEX](https://hetdex.org/)
 - [SKA](https://www.skao.int/en)
 
