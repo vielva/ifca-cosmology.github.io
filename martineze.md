@@ -20,12 +20,21 @@ In relation to institutional responsibilities, he has been director 2012-16 and 
 
 ### Research interests
 
--
+- Cosmic Microwave Background
+- Large Scale Structure
+- Dark Matter
+- Machine Learning applied to Cosmology
 
 
 ### Collaborations & Missions
 
-- 
+- QUIJOTE
+- LiteBIRD
+- ELFS
+- J-PAS
+- Euclid
+- CADEx
+- ARRAKIHS
 
 
 <br>
