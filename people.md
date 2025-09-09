@@ -22,7 +22,7 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
   <a href="{{site.url}}/casasfj"><img src="{{site.url}}/assets/imgs/People/Casasfj.png" style="width:160px;height:215px;"></a><br><a href="{{site.url}}/casasfj"><b>Francisco Javier Casas</b></a>
   </section>
   <section class="card">
-  <a href="{{site.url}}/cruzm"><img src="{{site.url}}/assets/imgs/People/cruzm.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/cruzm"><b>Marcos Cruz</b></a>
+  <a href="{{site.url}}/cruzm"><img src="{{site.url}}/assets/imgs/People/cruzm.jpg" style="width:162px;height:215px;"></a><br><a href="{{site.url}}/cruzm"><b>Marcos Cruz</b></a>
   </section>
   <section class="card">
   <a href="{{site.url}}/diegojm"><img src="{{site.url}}/assets/imgs/People/diegojm.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/diegojm"><b>José María Diego</b></a>
