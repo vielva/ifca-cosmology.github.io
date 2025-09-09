@@ -18,12 +18,19 @@ My field of research is observational cosmology, in particular the study of the 
 
 ### Research interests
 
--
+- Cosmic Microwave Background
+- Large-scale structure
+- Statistical data analysis
+- Image and signal processing
 
 
 ### Collaborations & Missions
 
-- 
+- LiteBIRD
+- QUIJOTE
+- ELFS
+- ARRAKIHS
+- SKA
 
 
 <br>
