@@ -30,7 +30,7 @@ My field of research is observational cosmology, in particular the study of the 
 - <a href="https://iac.es/es/proyectos/experimento-quijote-cmb"> QUIJOTE </a>
 - <a href="https://inspirehep.net/literature/2799330"> ELFS </a>
 - <a href="https://www.arrakihs-mission.eu/"> ARRAKIHS </a>
-- <a href="https://www.skao.int/en"> SKA </a>
+- <a href="https://www.skao.int/en"> SKAO </a>
 
 
 <br>
